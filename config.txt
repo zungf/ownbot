@@ -1,6 +1,6 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+token= NTM4ODI3NzQ0MTA5MTMzODQx.Dy5flA.hDjGLbGObnkoxNnUbZ62jOMvdTI
+owner= 434666573370753024 
+prefix= Z
+game= Only Zine.#0020
+stayinchannel=true 
+songinstatus=true
